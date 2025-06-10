@@ -1,2 +1,1 @@
-Hello world,
-I'm learning how to use git. Wish me luck!
+Hello world, I'm bibeduck!
